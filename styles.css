@@ -1,0 +1,49 @@
+header {
+
+    background-color: rgb(164, 75, 42);
+    min-height: 144px;
+    display:flex ;
+    gap: 123px;
+
+    justify-content: space-around;
+    align-items: center;
+}
+.logo {
+    background-color: aqua;
+    min-width: 70px;
+    min-height: 35px;
+}
+.housing {
+    background-color: cornflowerblue;
+    min-width: 70px;
+    min-height: 17px;
+}
+.impressions {
+    background-color: lightseagreen;
+     min-width: 70px;
+     min-height: 17px;
+}
+.services {
+    background-color: rgb(67, 82, 179);
+    min-width: 70px;
+    min-height: 17px;
+}
+.language {
+    background-color: rgb(73, 212, 23);
+     max-width: 33px;
+     min-height: 35px;
+}
+.menu {
+    background-color: yellow;
+    min-width: 33px;
+    min-height: 35px;
+}
+.center {
+     display: flex;
+}
+.right {
+    display: flex;
+}
+   
+
+
